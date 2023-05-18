@@ -1,0 +1,1 @@
+./temp_sensor | ./cpu_temp.py
