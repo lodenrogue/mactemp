@@ -3,6 +3,7 @@
 
 // BSD 3-Clause License
 
+// Copyright (c) 2023, Miguel Hernandez
 // Copyright (c) 2016-2018, "freedom" Koan-Sin Tan
 // All rights reserved.
 
